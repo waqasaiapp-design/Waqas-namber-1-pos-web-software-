@@ -1,0 +1,34 @@
+[
+  {
+    "pairingToken": "e72a15d1425841845a4867364217e6d8",
+    "manualCode": "WM-2350",
+    "shopId": "SHOP-WM-001",
+    "createdAt": 1795425630924,
+    "expiresAt": 1795425930924,
+    "status": "approved",
+    "candidateDevice": {
+      "deviceId": "DEV-TEST-B-MWT22AYZ",
+      "deviceName": "Test Android Cashier",
+      "deviceType": "Android Mobile",
+      "browser": "Chrome Mobile",
+      "os": "Android"
+    },
+    "approvedDeviceId": "DEV-TEST-B-MWT22AYZ"
+  },
+  {
+    "pairingToken": "4148ccd4ff92874d689f8d60a166e717",
+    "manualCode": "WM-9213",
+    "shopId": "SHOP-WM-001",
+    "createdAt": 1795425631576,
+    "expiresAt": 1795425931576,
+    "status": "approved",
+    "candidateDevice": {
+      "deviceId": "DEV-TEST-B-MWT22AYZ",
+      "deviceName": "Test Android Cashier Re-Paired",
+      "deviceType": "Android Mobile",
+      "browser": "Chrome Mobile",
+      "os": "Android"
+    },
+    "approvedDeviceId": "DEV-TEST-B-MWT22AYZ"
+  }
+]
